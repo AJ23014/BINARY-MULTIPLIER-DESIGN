@@ -26,4 +26,4 @@ This project implements a 4-bit x 4-bit Binary Multiplier using Verilog HDL. The
 
 ## Author
 * **Name:** JHA ANAY SOHANKUMAR
-* **Intern ID:** CTIS4668# BINARY-MULTIPLIER-DESIGN
+* **Intern ID:** CTIS4668
